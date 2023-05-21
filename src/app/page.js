@@ -8,21 +8,20 @@ export default function Page() {
     <>
       <section className="">
         {/* Navbar */}
-        <nav className="box-border flex  h-122 w-76.625 bg-green font-outift">
+        <nav className="box-border flex  h-122 w-76.625 bg-green font-outfit">
           <div className="flex">
             {/* Logo */}
             \
             <Image
               src="/Kira/KIRA_LOGO-removebg-preview.png"
-              width={50}
-              height={50}
+              width={138}
+              height={122}
               alt=""
             />
-            <h3 className="uppercase">kira</h3>
+            <h3 className="uppercase ">kira</h3>
           </div>
 
-
-     {/* FUNCTIONAL BAR */}
+          {/* FUNCTIONAL BAR */}
           <div>
             {" "}
             <ul className="">
