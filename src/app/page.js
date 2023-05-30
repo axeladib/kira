@@ -7,7 +7,7 @@ import Donate from "./donate"
 export default function Page() {
   return (
     <>
-      <section className="">
+      <section className="flex justify-center items-center">
         {/* Navbar */}
         <Navbar />
       </section>
