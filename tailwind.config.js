@@ -7,19 +7,16 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      "outfit": ["Outfit", "sans-serif"],
+      outfit: ["Outfit", "sans-serif"],
     },
     colors: {
       green: "#47A992",
     },
     extend: {
       spacing: {
-        "1258": "76.625rem",
-        "122": "7.625rem",
-        ""
+        1258: "76.625rem",
+        122: "7.625rem",
       },
-
-
     },
   },
   plugins: [],
