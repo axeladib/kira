@@ -11,7 +11,7 @@ export default function Page() {
         {/* Navbar */}
         <Navbar />
       </section>
-      <section>
+      <section className="flex justify-center items-center">
         {/* Description */}
        <Description/>
         {/* TODO:Hero text,link button to the kira calculation,send me a coffee prompt and button */}
